@@ -2,20 +2,20 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-unity_test/[Ll]ibrary/
-unity_test/[Tt]emp/
-unity_test/[Oo]bj/
-unity_test/[Bb]uild/
-unity_test/[Bb]uilds/
-unity_test/[Ll]ogs/
-unity_test/[Uu]ser[Ss]ettings/
+BBPCLK_T1/[Ll]ibrary/
+BBPCLK_T1/[Tt]emp/
+BBPCLK_T1/[Oo]bj/
+BBPCLK_T1/[Bb]uild/
+BBPCLK_T1/[Bb]uilds/
+BBPCLK_T1/[Ll]ogs/
+BBPCLK_T1/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
-unity_test/[Mm]emoryCaptures/
+BBPCLK_T1/[Mm]emoryCaptures/
 
 # Recordings can get excessive in size
-unity_test/[Rr]ecordings/
+BBPCLK_T1/[Rr]ecordings/
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
